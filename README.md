@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @damian-git-99
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning microservices
 - 📫 How to reach me: damiangalvan66@gmail.com
 
 <!---
