@@ -6,11 +6,8 @@ Software Engineer
 
 I am a software Engineer who loves Backend Development
 
-* 🖥️  See my portfolio at [MyPortfolio](http://bespoke-bubblegum-8af304.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://damian-git-99-portfolio.netlify.app)
 * ✉️  You can contact me at [damiangalvan66@gmail.com](mailto:damiangalvan66@gmail.com)
-* 🧠  I'm learning Spring boot
-* 🤝  I'm open to collaborating on Backend Projects
-
 ### Skills
 
 
