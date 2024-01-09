@@ -6,10 +6,7 @@ Software Engineer
 
 I am a software Engineer who loves Backend Development
 
-* 🖥️  See my portfolio at [MyPortfolio](https://damian-git-99-portfolio.netlify.app)
-* ✉️  You can contact me at [damiangalvan66@gmail.com](mailto:damiangalvan66@gmail.com)
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
